@@ -1,0 +1,13 @@
+Pose some questions that you want to analyze.
+
+Formulate hypotheses to test your questions.
+
+Perform the "classic" data analysis steps ( ANOVA, data cleaning,
+ EDA, dependent variable selection, regression, 
+feature selection, classification, etc.)
+ to determine if your hypothesis is supported.
+
+WRITE A REPORT ABOUT WHAT YOU HAVE DONE WITH CONCLUSION MADE.
+
+Submit commented code in .ipynb file. Submit the design
+ of your experiment, hypotheses and conclusions as .pdf file
